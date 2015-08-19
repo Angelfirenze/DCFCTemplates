@@ -17,15 +17,15 @@ Release List:
 
 Band Lineup (1998 - 2014)
 
-Benjamin Gibbard
-Christopher Walla
-Jason McGerr
-Nicholas Harmer 
+* Benjamin Gibbard
+* Christopher Walla
+* Jason McGerr
+* Nicholas Harmer 
 
 (2014 - )
 
-Benjamin Gibbard
-David Depper
-Jason McGerr
-Nicholas Harmer
-Zachary Rae
+* Benjamin Gibbard
+* David Depper
+* Jason McGerr
+* Nicholas Harmer
+* Zachary Rae
